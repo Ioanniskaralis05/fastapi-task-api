@@ -21,6 +21,7 @@ A professional REST API Task Manager built with FastAPI and SQLite.
 - Uvicorn
 - Git
 - GitHub
+- Docker
 
 ## API Endpoints
 
